@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://whitegive111.github.io/tags/index.html</loc>
+    
+    <lastmod>2022-08-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://whitegive111.github.io/categories/index.html</loc>
+    
+    <lastmod>2022-08-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://whitegive111.github.io/life/index.html</loc>
+    
+    <lastmod>2022-08-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://whitegive111.github.io/2022/08/14/%E5%A3%B0%E6%98%8E/</loc>
     
     <lastmod>2022-08-14</lastmod>
@@ -14,33 +41,6 @@
     <loc>https://whitegive111.github.io/2022/05/03/%E7%AE%80%E5%8D%95%E7%9A%84%E8%AF%B4%E6%98%8E/</loc>
     
     <lastmod>2022-08-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://whitegive111.github.io/life/index.html</loc>
-    
-    <lastmod>2022-02-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://whitegive111.github.io/tags/index.html</loc>
-    
-    <lastmod>2022-02-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://whitegive111.github.io/categories/index.html</loc>
-    
-    <lastmod>2022-02-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
