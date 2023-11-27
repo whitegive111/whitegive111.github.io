@@ -76,7 +76,7 @@
 
   <url>
     <loc>https://8.130.105.84/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,21 +84,21 @@
   
   <url>
     <loc>https://8.130.105.84/tags/PWN/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://8.130.105.84/tags/Write-up/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://8.130.105.84/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -107,21 +107,21 @@
   
   <url>
     <loc>https://8.130.105.84/categories/PWN/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://8.130.105.84/categories/%E6%9D%82%E8%B0%88/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://8.130.105.84/categories/CTF/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
