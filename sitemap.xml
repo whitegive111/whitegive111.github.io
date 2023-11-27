@@ -64,15 +64,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://8.130.105.84/2022/11/16/Canary%E7%9A%84%E5%87%A0%E7%A7%8D%E7%BB%95%E8%BF%87%E6%96%B9%E5%BC%8F/</loc>
-    
-    <lastmod>2022-11-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://8.130.105.84/</loc>
@@ -81,13 +72,6 @@
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>https://8.130.105.84/tags/PWN/</loc>
-    <lastmod>2023-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://8.130.105.84/tags/%E5%88%9D%E8%AF%86/</loc>
@@ -111,13 +95,6 @@
   </url>
   
 
-  
-  <url>
-    <loc>https://8.130.105.84/categories/PWN/</loc>
-    <lastmod>2023-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://8.130.105.84/categories/%E5%88%9D%E8%AF%86/</loc>
